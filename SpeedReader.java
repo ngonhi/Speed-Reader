@@ -77,6 +77,8 @@ public class SpeedReader {
 		/* Reports the number of words and sentences WordGenerator processed. */
 		System.out.println("Number of Words Generated = " + wg.getWordCount());
 		System.out.println("Number of Sentences Generated = " + wg.getSentenceCount());
+		
+		System.exit(0);
 	} // wordDisplayer
 
 	/**
