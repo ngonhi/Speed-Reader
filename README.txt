@@ -24,5 +24,10 @@ We used this website to learn how to report errors.
 4. Our documentations are inspired by 
 https://docs.oracle.com/javase/7/docs/api/
 
+Edge cases
+Our WordGenerator cannot consider the following cases
+- Period in the middle of a sentence (due to abbreviation etc.)
+- Sentence that ends with a quote won't be considered as a sentence (.")
+
 Extra credit
 We did the focus letters.
