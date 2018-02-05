@@ -30,4 +30,5 @@ Our WordGenerator cannot consider the following cases
 - Sentence that ends with a quote won't be considered as a sentence (.")
 
 Extra credit
-We did the focus letters.
+We did the focus letters. We also set the background color in pink. We
+added the focus line as well.
