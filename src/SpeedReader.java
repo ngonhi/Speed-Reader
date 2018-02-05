@@ -62,7 +62,8 @@ public class SpeedReader {
 
 			/* Displays the word generated in black */
 			g.setColor(Color.black);
-			g.drawLine(width/2, 0, width/2, height); //draws a line going through the focused character
+			//draws a line going through the focused character
+			g.drawLine(width/2, 0, width/2, height); 
 			g.drawString(next, x, y); //draws the word generated
 
 			/* Draws the focused letter in white */
