@@ -1,11 +1,14 @@
 There were three participants:
 Participant  Name        Class Year      Email  
-1
+1          Albert Ford    2020           [fordalbe]
 2
 3
 
 Result:
-
+Participant 1 got 12/20 questions right. The overall correctness is 60%. The participant read
+the text 4 without using speed reader, wpm = 440. For test 1 (wpm = 250), test 2 (wpm = 350), 
+test 3 (wpm = 500), the correctnesses are 60%, 40%, and 60%, respectively. Participant 1 
+self-reported that test 2 was the hardest one and test 3 was the easiest one.
 
 
 
@@ -29,19 +32,23 @@ B. neutral
 C. supportive
 D. satirical
 E. contemptuous
-Q2. The author blames all of the following for the failure to impart scientific method through the education system except
+Q2. The author blames all of the following for the failure to impart scientific method through 
+      the education system except
 A. poor teaching
 B. examination methods
 C. lack of direct experience
 D. the social and education systems
 E. lack of interest on the part of students
-Q3. If the author were to study current education in science to see how things have changed since he wrote the piece, he would probably be most interested in the answer to which of the following questions?
+Q3. If the author were to study current education in science to see how things have changed 
+      since he wrote the piece, he would probably be most interested in the answer to which 
+	  of the following questions?
 A. Do students know more about the world about them?
 B. Do students spend more time in laboratories?
 C. Can students apply their knowledge logically?
 D. Have textbooks improved?
 E. Do they respect their teachers?
-Q4. According to the text, how does the author describe the only way of learning the method of science?
+Q4. According to the text, how does the author describe the only way of learning 
+     the method of science?
 A. long and bitter
 B. tedious but efficient
 C. creative and effortless
@@ -54,7 +61,14 @@ C. science teaching has imparted some knowledge of facts to some children
 D. the author believes that many teachers are authoritarian
 E. it is relatively easy to learn scientific method.
 
-(Answers: E E C A E)
+
+
+
+
+
+
+
+
 
 Test02:
 Q1. The primary purpose of the passage with reference to the society under discussion is to
@@ -69,7 +83,8 @@ B. rudimentary physical skills
 C. important responsibilities 
 D. useful social skills 
 E. monotonous tasks Q3
-Q3. It can be inferred that in the community under discussion all of the following are important except
+Q3. It can be inferred that in the community under discussion all of the following are 
+      important except
 A. domestic handicrafts 
 B. well-defined social structure 
 C. fishing skills 
@@ -91,7 +106,9 @@ C. Description of evidence to support a theory.
 D. Generalization from a particular viewpoint. 
 E. Close examination of preconceptions.
 
-(Answers: A D D D A)
+
+
+
 
 Test03:
 1  Why did Capa change his name? 
@@ -124,7 +141,31 @@ B.	spent mostly in Hollywood.
 C.	very glamorous. 
 D.	spent in Turkey. 
 
-(Answers: C B D D C)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Test04:
 
@@ -158,4 +199,3 @@ B.	It allows the subjects of the research a greater degree of privacy.
 C.	It eradicates the problem of research subjects altering their behaviour towards researchers.
 D.	It takes longer to perform this type of research effectively. 
 
-(Answers: D C A D A)
