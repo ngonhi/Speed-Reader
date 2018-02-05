@@ -82,6 +82,8 @@ C. science teaching has imparted some knowledge of facts to some children
 D. the author believes that many teachers are authoritarian
 E. it is relatively easy to learn scientific method.
 
+(ANSWERS: EECAE)
+
 TEST02
 Q1. The primary purpose of the passage with reference to the society under
 discussion is to
@@ -125,6 +127,8 @@ C. Description of evidence to support a theory.
 D. Generalization from a particular viewpoint.
 E. Close examination of preconceptions.
 
+(ANSWERS: ADDDA)
+
 TEST 03
 1. Why did Capa change his name?
 A. To hide his identity
@@ -155,6 +159,8 @@ A. less dramatic than his professional life.
 B. spent mostly in Hollywood.
 C. very glamorous.
 D. spent in Turkey.
+
+(ANSWERS: CBDDC)
 
 TEST04:
 
@@ -190,3 +196,5 @@ A. It requires the researcher to become actively involved in the daily lives of 
 B. It allows the subjects of the research a greater degree of privacy.
 C. It eradicates the problem of research subjects altering their behaviour towards researchers.
 D. It takes longer to perform this type of research effectively.
+
+(ANSWERS: DCADA)
