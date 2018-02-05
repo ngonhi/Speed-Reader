@@ -3,25 +3,25 @@ import java.io.IOException;
 
 public class SpeedReader {
 	/**
-	 * Finds and returns the focused character of a word.
-	 * @param word which is a String
-	 * @return focusedChar which is a char 
-	 */
-	public static char focusedChar(String word) {
-		char focusedChar;
+	* Finds and returns the index of the focused character of a word.
+	* @param word which is a String
+	* @return focusedIndex which is an int 
+	*/
+	public static int focusedIndex(String word) {
+		int index;
 		if (word.length() <= 1) {
-			focusedChar = word.charAt(0);
+			index = 0;
 		}	else if (word.length() <= 5 && word.length() >=2){
-			focusedChar = word.charAt(1);
+			index = 1;
 		}	else if (word.length() <= 9 && word.length() >=6){
-			focusedChar = word.charAt(2);
+			index = 2;
 		}	else if (word.length() <= 13 && word.length() >=10){
-			focusedChar = word.charAt(3);
+			index = 3;
 		}	else {
-			focusedChar = word.charAt(4);
+			index = 4;
 		}
 
-		return focusedChar;
+		return index;
 	}
 
 	/**
@@ -46,8 +46,9 @@ public class SpeedReader {
 		/* Reads and displays words generated in an animated way */
 		while(wg.hasNext()) {
 			String next = wg.next();
-			char focusedChar = focusedChar(next);
-
+			int focusedIndex = focusedIndex(next);
+			char focusedChar = next.charAt(focusedIndex);
+			
 			/* Gets the coordinate of the focused character */
 			int x = (width - fm.charWidth(focusedChar))/ 2;
 			int y = (fm.getAscent() + (height - (fm.getAscent() + fm.getDescent())) / 2);
@@ -55,7 +56,7 @@ public class SpeedReader {
 			/* Gets the coordinate of the first character 
 			 * based on the index of the focused character 
 			 */
-			for (int i = 0; i < next.indexOf(focusedChar); i++) {
+			for (int i = 0; i < focusedIndex; i++) {
 				x -= fm.charWidth(next.charAt(i));
 			}
 
