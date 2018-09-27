@@ -1,5 +1,4 @@
-# CSC 207: HW 2: SPEED READER
---------------------------------------------------------------------------------
+# CSC 207: HW 2: Speed Reader
 ## Authors:
 Nhi Ngo, Bangjie Wang
 
