@@ -1,18 +1,9 @@
-HOMEWORK 2: SPEED READER
+# CSC 207: HW 2: SPEED READER
 --------------------------------------------------------------------------------
+## Authors:
 Nhi Ngo, Bangjie Wang
-The submission includes
-- One src folder
-+ DrawingPanel.java
-+ SpeedReader.java
-+ WordGenerator.java
-- One usability-test folder
-+ README.md (participants info, test results, text souces)
-+ 6 Pratice0x files
-+ 4 Test0x files
-- README.txt
 
-Reference list:
+## Reference list:
 1. http://www.java2s.com/Tutorial/Java/0261__2D-Graphics/Centertext.htm
 We used this website to learn how to use fontMetrics and center text.
 
@@ -24,11 +15,5 @@ We used this website to learn how to report errors.
 4. Our documentations are inspired by 
 https://docs.oracle.com/javase/7/docs/api/
 
-Edge cases
-Our WordGenerator cannot consider the following cases
-- Period in the middle of a sentence (due to abbreviation etc.)
-- Sentence that ends with a quote won't be considered as a sentence (.")
-
-Extra credit
-We did the focus letters. We also set the background color in pink. We
-added the focus line as well.
+## Description:
+Prototyped one approach to speed reading called Rapid Serial Visual Presentation (RSVP) and ran some small user studies to test its effectiveness.
